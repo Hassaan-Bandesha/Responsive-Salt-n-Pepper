@@ -25,7 +25,10 @@
 
 /* Color CLasses Styling Started  */
 .grey{
-    color: #808080;
+    color: #979797;
+}
+.red{
+    color: #ff0000;
 }
 /* Color CLasses Stylimg Started  */
 
@@ -52,6 +55,11 @@
 }
 .welcome>span{
     font-family: 'futurak';
-    
 }
 /* Welcome Styling Ended  */
+
+/* Franchise Styling Started  */
+.restraunt-franchises{
+    font-size: 40px;
+}
+/* Franchise Styling Ended  */
