@@ -4,14 +4,30 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-header{
-    font-family: "Merriweather", serif;
-    font-weight: 400;
-    font-style: normal;
-}
 /* Other Styling Ended  */
 
+/* Font Classes Started*/
+@font-face {
+    font-family: 'appercu';
+    src: url(./fonts/Apercu\ Light.otf);
+}
+
+@font-face {
+    font-family: 'futurak';
+    src: url(./fonts/futurak.ttf);
+}
+
+@font-face {
+    font-family: 'butler';
+    src: url(./fonts/Butler_Bold_Stencil.otf);
+}
+/* Font Classes Ended  */
+
+/* Color CLasses Styling Started  */
+.grey{
+    color: #808080;
+}
+/* Color CLasses Stylimg Started  */
 
 /* Navbar Styling Started */
 #main-logo{
@@ -27,3 +43,15 @@ header{
     color: #ff0000;
 }
 /* Navbar Styling Ended */
+
+/* Welcome Styling Started  */
+.welcome-head>h3{
+    font-size: 40px;
+    font-weight: lighter;
+    padding-top: 20px;
+}
+.welcome>span{
+    font-family: 'futurak';
+    
+}
+/* Welcome Styling Ended  */
