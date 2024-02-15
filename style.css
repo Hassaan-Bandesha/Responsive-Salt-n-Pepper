@@ -1,0 +1,32 @@
+/* Order Styling Started   */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text-light{
+    color: #ffffff;
+}
+/* Other Styling Ended  */
+
+
+/* Navbar Styling Started */
+#main-logo{
+    width: 180px;
+}
+#order-btn{
+    background-color: #ff0000;
+}
+#arrow-btn{
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    background-color: #ffffff;
+    color: #ff0000;
+}
+/* Navbar Styling Ended */
