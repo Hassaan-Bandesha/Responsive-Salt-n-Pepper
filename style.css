@@ -39,11 +39,12 @@
 #order-btn{
     background-color: #ff0000;
 }
-#arrow-btn{
+.arrow-btn{
     border: 1px solid #ffffff;
     border-radius: 20px;
     background-color: #ffffff;
     color: #ff0000;
+    padding: 5px;
 }
 /* Navbar Styling Ended */
 
@@ -63,3 +64,9 @@
     font-size: 40px;
 }
 /* Franchise Styling Ended  */
+
+/* Village Styling Started */
+.village-img{
+    width: 600px;
+}
+/* Village Styling Ended */
