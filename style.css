@@ -30,6 +30,9 @@
 .red{
     color: #ff0000;
 }
+.green{
+    background-color: #006300;
+}
 /* Color CLasses Stylimg Started  */
 
 /* Navbar Styling Started */
@@ -67,6 +70,15 @@
 
 /* Village Styling Started */
 .village-img{
-    width: 600px;
+    width: 500px;
 }
 /* Village Styling Ended */
+
+/* Express Franchises Styling Started  */
+.opening-soon{
+    border: 1px solid #000000;
+    padding: 20px 60px;
+    background-color: #ffffff;
+    color: #000000;
+}
+/* Express Franchises Styling Ended  */
