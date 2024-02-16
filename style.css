@@ -82,3 +82,21 @@
     color: #000000;
 }
 /* Express Franchises Styling Ended  */
+
+/* Social Feed Styling Started  */
+.social-feed-img{
+    width: 220px;
+}
+/* Social Feed Styling Ended  */
+
+/* Footer Styling Started  */
+.social-icons{
+    background-color: #ff0000;
+    border: 1px solid #000000;
+    padding: 10px;
+    border-radius: 20px;
+}
+.footer-width{
+    width: 250px;
+}
+/* Footer Styling Ended  */
